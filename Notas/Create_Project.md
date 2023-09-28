@@ -6,6 +6,8 @@ To create a project in Django, you need this, command:
 
     django-admin startproject <Project Name> <PATH(optional)>
 
+    django-admin startproject myapp .
+
 **Disclaimer**
 It very importante the project's name not will be a keywords like python, django, test, etc.
 
